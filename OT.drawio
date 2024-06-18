@@ -1,0 +1,242 @@
+<mxfile host="app.diagrams.net" modified="2024-06-17T12:56:54.107Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5oaFZMAdkulQGBAu-Vwt" version="24.5.4" type="google">
+  <diagram name="Page-1" id="0CvxxxWlcqXCnl-osE7A">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-7" value="²" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="-2330" y="-180" width="3090" height="1098.65" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-10" target="5XRSZyJ36uFwY-A9xjft-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-10" target="5XRSZyJ36uFwY-A9xjft-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Projet Patio" treeRoot="1" id="5XRSZyJ36uFwY-A9xjft-10">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+            <mxGeometry x="1650" y="60" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-11" value="Lot 1 : Analyse" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="670" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-12" value="Lot 4 :&lt;br&gt;&lt;div&gt;Test&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="2507" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-14" value="Lot 2&amp;nbsp; : Conception" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1710" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-10" target="5XRSZyJ36uFwY-A9xjft-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-16" value="Lot 3 : Développement" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="2170" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-10" target="5XRSZyJ36uFwY-A9xjft-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-16" target="5XRSZyJ36uFwY-A9xjft-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-22" value="Lot 3.1 :Création d&#39;un spectacle et de ses tarifs" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1950" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-16" target="5XRSZyJ36uFwY-A9xjft-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-32" value="Lot 3.2 : Création de ses représentations" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="2060" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-16" target="5XRSZyJ36uFwY-A9xjft-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-34" value="Lot 3.3 : Affichage des statistiques" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="2170" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-11" target="5XRSZyJ36uFwY-A9xjft-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="168.24" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-40" value="Lot 1.2 : SEL" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="670" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-11" target="5XRSZyJ36uFwY-A9xjft-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="168.24" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-42" value="Lot 1.1 : Note de cadrage" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="520" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-12" target="5XRSZyJ36uFwY-A9xjft-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1237" y="168.24" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-46" value="Lot 4.1 : Test de la fonction &quot;création d&#39;un spectacle et de ses tarifs&quot;&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="2290" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-12" target="5XRSZyJ36uFwY-A9xjft-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1237" y="168.24" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-48" value="Lot 4.2 : Test de la fonction &quot;création des représentaions&quot;&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="2400" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-12" target="5XRSZyJ36uFwY-A9xjft-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1237" y="168.24" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-50" value="Lot 4.3 :Test de la fonction &quot;affichage des statistiques&quot;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="2507" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-53" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-12" target="5XRSZyJ36uFwY-A9xjft-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" target="5XRSZyJ36uFwY-A9xjft-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-57" value="Lot 2.3 : Interface IHM" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1710" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" target="5XRSZyJ36uFwY-A9xjft-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-59" value="Lot 2.2 : Diagramme d&#39;activité" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1380" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-60" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-14" target="5XRSZyJ36uFwY-A9xjft-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="-40" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XRSZyJ36uFwY-A9xjft-61" value="Lot 2.1 : Diagramme UML" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1060" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Od5H10fGLo4FDJPPdJAR-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-42" target="Od5H10fGLo4FDJPPdJAR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1357" y="-130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Od5H10fGLo4FDJPPdJAR-2" value="Lot 1.1.2 : Etude de la faisabilité technique" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="460" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Od5H10fGLo4FDJPPdJAR-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-42" target="Od5H10fGLo4FDJPPdJAR-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1437" y="-150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-57" target="ZaQoGCrB63ztVvYYgbrq-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="40" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Od5H10fGLo4FDJPPdJAR-4" value="Lot 1.1.3 : Etude de la faisabilité financière" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="570" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-82" value="Lot 2.3.1 : Interface IHM de la création des spectacles et de ses tarifs" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1490" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Od5H10fGLo4FDJPPdJAR-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-42" target="Od5H10fGLo4FDJPPdJAR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1437" y="-150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-57" target="ZaQoGCrB63ztVvYYgbrq-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="40" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Od5H10fGLo4FDJPPdJAR-6" value="Lot 1.1.4 : Etude de la faisabilité calandaire" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="680" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-84" value="Lot 2.3.2 : Interface IHM de la création de ses représentations" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1600" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Od5H10fGLo4FDJPPdJAR-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1454" y="-90" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-85" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-57" target="ZaQoGCrB63ztVvYYgbrq-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="40" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Od5H10fGLo4FDJPPdJAR-8" value="Lot 1.1.1 : Etude du but, des enjeux et des objectifs" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="350" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-86" value="Lot 2.3.3 : Interface IHM de l&#39;affichage des statistiques" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1710" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-95" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-61" target="ZaQoGCrB63ztVvYYgbrq-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-96" value="Lot 2.1.3 : Diagramme UML de la fonction &quot;affichage des statistiques&quot;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1035" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-97" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-61" target="ZaQoGCrB63ztVvYYgbrq-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-98" value="&lt;div&gt;Lot 2.1.2 : Diagramme de la fonction &quot;création des représentations&quot;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="915" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-99" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-61" target="ZaQoGCrB63ztVvYYgbrq-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-100" value="Lot 2.1.1 : Diagramme de la fonction &quot;création d&#39;un spectacle et de ses tarifs&quot;&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="801" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-102" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-59" target="ZaQoGCrB63ztVvYYgbrq-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-885" y="-310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-103" value="&lt;div&gt;Lot 2.2.3 : Diagramme d&#39;activité&lt;/div&gt;&lt;div&gt;de l&#39;affichage des statistiques&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1380" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-106" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-59" target="ZaQoGCrB63ztVvYYgbrq-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-885" y="-310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-107" value="Lot 2.2.2 : Diagramme d&#39;activité de la création de ses représentations" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1265" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-108" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="5XRSZyJ36uFwY-A9xjft-7" source="5XRSZyJ36uFwY-A9xjft-59" target="ZaQoGCrB63ztVvYYgbrq-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-885" y="-310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaQoGCrB63ztVvYYgbrq-109" value="Lot 2.2.1 : Diagramme d&#39;activité de la création des spectacles et de ses tarifs" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5XRSZyJ36uFwY-A9xjft-7">
+          <mxGeometry x="1150" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
